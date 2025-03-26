@@ -1,0 +1,21 @@
+{
+  "name": "demo-hackathon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@midscene/web": "^0.13.1",
+    "@playwright/test": "^1.51.1",
+    "@types/lodash": "^4.17.16",
+    "@types/node": "^22.13.13",
+    "prettier": "3.5.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "lodash": "^4.17.21"
+  }
+}

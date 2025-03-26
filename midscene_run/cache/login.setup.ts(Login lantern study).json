@@ -1,0 +1,151 @@
+{
+  "pkgName": "demo-hackathon",
+  "pkgVersion": "1.0.0",
+  "cacheId": "login.setup.ts(Login lantern study)",
+  "aiTasks": [
+    {
+      "prompt": "Input - Email - talosix.qa+amxdo@gmail.com",
+      "tasks": [
+        {
+          "type": "locate",
+          "pageContext": {
+            "url": "https://staging.study.talosix.com/sign-in",
+            "size": {
+              "width": 1280,
+              "height": 720,
+              "dpr": 1
+            }
+          },
+          "prompt": "Email @ ",
+          "response": {
+            "elements": [
+              {
+                "id": "pkcan"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "prompt": "Input - Password - T@losix91",
+      "tasks": [
+        {
+          "type": "locate",
+          "pageContext": {
+            "url": "https://staging.study.talosix.com/sign-in",
+            "size": {
+              "width": 1280,
+              "height": 720,
+              "dpr": 1
+            }
+          },
+          "prompt": "Password @ ",
+          "response": {
+            "elements": [
+              {
+                "id": "flipn"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "prompt": "Tap - Login",
+      "tasks": [
+        {
+          "type": "locate",
+          "pageContext": {
+            "url": "https://staging.study.talosix.com/sign-in",
+            "size": {
+              "width": 1280,
+              "height": 720,
+              "dpr": 1
+            }
+          },
+          "prompt": "Login @ ",
+          "response": {
+            "elements": [
+              {
+                "id": "dfaaf"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "prompt": "Tap - 'Continue singing in' button",
+      "tasks": [
+        {
+          "type": "locate",
+          "pageContext": {
+            "url": "https://staging.study.talosix.com/sign-in",
+            "size": {
+              "width": 1280,
+              "height": 720,
+              "dpr": 1
+            }
+          },
+          "prompt": "'Continue singing in' button @ ",
+          "response": {
+            "elements": [
+              {
+                "id": "hefnb"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "prompt": "Input - Search - lantern",
+      "tasks": [
+        {
+          "type": "locate",
+          "pageContext": {
+            "url": "https://staging.study.talosix.com/select-study",
+            "size": {
+              "width": 1280,
+              "height": 720,
+              "dpr": 1
+            }
+          },
+          "prompt": "Search @ ",
+          "response": {
+            "elements": [
+              {
+                "id": "bjnmh"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "prompt": "Tap - TEST - LANTERN Study",
+      "tasks": [
+        {
+          "type": "locate",
+          "pageContext": {
+            "url": "https://staging.study.talosix.com/select-study",
+            "size": {
+              "width": 1280,
+              "height": 720,
+              "dpr": 1
+            }
+          },
+          "prompt": "TEST - LANTERN Study @ ",
+          "response": {
+            "elements": [
+              {
+                "id": "mibeg"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
