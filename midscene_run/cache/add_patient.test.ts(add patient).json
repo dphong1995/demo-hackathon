@@ -74,6 +74,30 @@
           }
         }
       ]
+    },
+    {
+      "prompt": "Tap - Site selection input in the registration form",
+      "tasks": [
+        {
+          "type": "locate",
+          "pageContext": {
+            "url": "https://staging.study.talosix.com/patient-management/summary",
+            "size": {
+              "width": 1920,
+              "height": 1080,
+              "dpr": 1
+            }
+          },
+          "prompt": "Site selection input in the registration form @ ",
+          "response": {
+            "elements": [
+              {
+                "id": "ijhhp"
+              }
+            ]
+          }
+        }
+      ]
     }
   ]
 }

@@ -8,6 +8,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@faker-js/faker": "^9.6.0",
     "@midscene/web": "^0.13.1",
     "@playwright/test": "^1.51.1",
     "@types/lodash": "^4.17.16",

@@ -76,30 +76,6 @@
       ]
     },
     {
-      "prompt": "Tap - 'Continue singing in' button",
-      "tasks": [
-        {
-          "type": "locate",
-          "pageContext": {
-            "url": "https://staging.study.talosix.com/sign-in",
-            "size": {
-              "width": 1280,
-              "height": 720,
-              "dpr": 1
-            }
-          },
-          "prompt": "'Continue singing in' button @ ",
-          "response": {
-            "elements": [
-              {
-                "id": "hefnb"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
       "prompt": "Input - Search - lantern",
       "tasks": [
         {
