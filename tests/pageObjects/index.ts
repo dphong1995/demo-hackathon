@@ -6,3 +6,8 @@
 export { LoginPage } from './loginPage';
 export { StudySelectionPage } from './studySelectionPage';
 export { DataManagementPage } from './dataManagementPage';
+export { PatientManagementPage } from './patientManagementPage';
+export { PatientSummaryPage } from './patientSummaryPage';
+export { PatientRegistrationForm } from './patientRegistrationForm';
+export { NavigationMenu } from './navigationMenu';
+export { BasePage } from './basePage';
