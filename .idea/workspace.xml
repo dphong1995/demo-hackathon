@@ -47,49 +47,49 @@
     <option name="sortByType" value="true" />
     <option name="sortKey" value="BY_TYPE" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Playwright.Add patient to Talosix TEST - LANTERN study.executor": "Run",
-    "Playwright.All Tests.executor": "Run",
-    "Playwright.Authenticated user tests.executor": "Run",
-    "Playwright.Create new user and verify login.executor": "Run",
-    "Playwright.Patient Management - Add Patient Tests.executor": "Run",
-    "Playwright.Patient Management Tests (1).executor": "Run",
-    "Playwright.Patient Management Tests.executor": "Run",
-    "Playwright.Talosix EDC Clinical Trial Workflow.executor": "Run",
-    "Playwright.Talosix EDC Login Tests.executor": "Run",
-    "Playwright.Talosix Study Selection Test (1).executor": "Run",
-    "Playwright.Talosix Study Selection Test.executor": "Debug",
-    "Playwright.Talosix Study Selection Test.should login and select TEST - LANTERN study.executor": "Run",
-    "Playwright.Talosix clinical study - patient management and form completion.executor": "Run",
-    "Playwright.Tests with custom study selection.executor": "Run",
-    "Playwright.has title.executor": "Run",
-    "Playwright.should log in and select study.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
-    "javascript.nodejs.core.library.configured.version": "18.17.0",
-    "javascript.nodejs.core.library.typings.version": "18.17.19",
-    "last_opened_file_path": "/Users/user/demo-hackathon",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "/Users/user/.nvm/versions/node/v18.17.0/bin/node",
-    "nodejs_package_manager_path": "npm",
-    "prettierjs.PrettierConfiguration.Package": "/Users/user/demo-hackathon/node_modules/prettier",
-    "settings.editor.selected.configurable": "configurable.group.tools",
-    "ts.external.directory.path": "/Users/user/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Playwright.Add patient to Talosix TEST - LANTERN study.executor&quot;: &quot;Run&quot;,
+    &quot;Playwright.All Tests.executor&quot;: &quot;Run&quot;,
+    &quot;Playwright.Authenticated user tests.executor&quot;: &quot;Run&quot;,
+    &quot;Playwright.Create new user and verify login.executor&quot;: &quot;Run&quot;,
+    &quot;Playwright.Patient Management - Add Patient Tests.executor&quot;: &quot;Run&quot;,
+    &quot;Playwright.Patient Management Tests (1).executor&quot;: &quot;Run&quot;,
+    &quot;Playwright.Patient Management Tests.executor&quot;: &quot;Run&quot;,
+    &quot;Playwright.Talosix EDC Clinical Trial Workflow.executor&quot;: &quot;Run&quot;,
+    &quot;Playwright.Talosix EDC Login Tests.executor&quot;: &quot;Run&quot;,
+    &quot;Playwright.Talosix Study Selection Test (1).executor&quot;: &quot;Run&quot;,
+    &quot;Playwright.Talosix Study Selection Test.executor&quot;: &quot;Debug&quot;,
+    &quot;Playwright.Talosix Study Selection Test.should login and select TEST - LANTERN study.executor&quot;: &quot;Run&quot;,
+    &quot;Playwright.Talosix clinical study - patient management and form completion.executor&quot;: &quot;Run&quot;,
+    &quot;Playwright.Tests with custom study selection.executor&quot;: &quot;Run&quot;,
+    &quot;Playwright.has title.executor&quot;: &quot;Run&quot;,
+    &quot;Playwright.should log in and select study.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;18.17.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;18.17.19&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/user/demo-hackathon&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;/Users/user/.nvm/versions/node/v18.17.0/bin/node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/Users/user/demo-hackathon/node_modules/prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/user/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "TEXT",
-      "TypeScript"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;TEXT&quot;,
+      &quot;TypeScript&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Playwright.Patient Management - Add Patient Tests">
     <configuration name="All Tests" type="JavaScriptTestRunnerPlaywright" nameIsGenerated="true">
       <node-interpreter value="project" />

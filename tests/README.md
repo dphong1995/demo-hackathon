@@ -13,7 +13,6 @@ This directory contains automated tests for the Talosix EDC application using th
 - **login.test.ts**: Tests authentication functionality
 - **select-study.test.ts**: Tests study selection functionality
 - **patient-management.test.ts**: Tests patient management functionality
-- **add-patient.test.ts**: Tests adding a new patient to the system
 
 ## Running Tests
 
